@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="binh"/>
+        <attribute name="authors" value="HP"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-03-07 10:02:41 AM"/>
+        <attribute name="created" value="SFA7REVTS1RPUC1DQU5OM1JROzIwMjUtMDMtMDc7MDc6NDk6MTEgQU07MjUwNw=="/>
+        <attribute name="edited" value="SFA7REVTS1RPUC1DQU5OM1JROzIwMjUtMDMtMDc7MTA6MDI6NDEgQU07MjsyNjAy"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="a, b, s" type="Integer" array="False" size=""/>
+            <output expression="&quot;nh&#7853;p a&quot;" newline="True"/>
+            <input variable="a"/>
+            <output expression="&quot;nh&#7853;p b&quot;" newline="True"/>
+            <input variable="b"/>
+            <assign variable="s" expression="a+b"/>
+            <output expression="s" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
